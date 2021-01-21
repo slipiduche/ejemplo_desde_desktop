@@ -1,2 +1,2 @@
 # ejemplo_desde_desktop
- es un ejemplo para grever
+ es un ejemplo para grever desde desktop
